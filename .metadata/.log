@@ -1,0 +1,124 @@
+!SESSION 2017-11-01 13:51:36.710 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/dan/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -data /Users/dan/svy-workspace-test2 -keyring /Users/dan/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2017-11-01 13:52:05.655
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface 2 0 2017-11-01 13:52:30.167
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-11-01 13:52:30.167
+!MESSAGE A conflict occurred for F4:
+Binding(F4,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.OpenFormHierarchyAction,Open Form Hierarchy,
+		Open Form Hierarchy,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2cdcedef,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@43778d6d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:53:12.283
+!MESSAGE Time taken to read in the solution import_placeholder: 7
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:53:16.662
+!MESSAGE Time taken to read in the solution import_placeholder: 0
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:53:17.052
+!MESSAGE Time taken to read in the solution svyTimesheets$DB: 258
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:53:17.520
+!MESSAGE Time taken to read in the solution svyUtils: 292
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:53:17.523
+!MESSAGE Time taken to read in the solution svyTimesheetsUtils: 3
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:53:38.514
+!MESSAGE Browser url for editor: http://localhost:8080/rfb/angular/index.html?s=svyTimesheets$DB&l=flow&f=timesheetsList&w=640.0&h=0.0&editorid=a0deed3e-0af2-4042-a151-e80de29f7f7c&c_sessionid=7e32b3e3-07a2-4bad-b04e-7211e61235a6
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:54:36.298
+!MESSAGE Time taken to read in the solution import_placeholder: 1
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:55:18.233
+!MESSAGE Time taken to read in the solution import_placeholder: 0
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:56:01.015
+!MESSAGE Time taken to read in the solution import_placeholder: 1
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:56:01.391
+!MESSAGE Time taken to read in the solution svyTimesheets$API: 297
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:56:01.661
+!MESSAGE Time taken to read in the solution svyUtils: 147
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:56:01.685
+!MESSAGE Time taken to read in the solution svyTimesheetsAPI: 22
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:56:22.339
+!MESSAGE Browser url for editor: http://localhost:8080/rfb/angular/index.html?s=svyTimesheets$API&l=flow&f=timesheetsList&w=640.0&h=0.0&editorid=01e91783-fee4-4866-9b33-538a73ffdab5&c_sessionid=d29382e9-2de9-4103-9959-cd21dd184391
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:56:35.412
+!MESSAGE Time taken to read in the solution svyTimesheets$DB: 77
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:56:35.498
+!MESSAGE Time taken to read in the solution svyTimesheetsUtils: 2
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:56:35.813
+!MESSAGE Browser url for editor: http://localhost:8080/rfb/angular/index.html?s=svyTimesheets$DB&l=flow&f=timesheetsList&w=640.0&h=0.0&editorid=e4760acf-0414-4eb9-9f9c-ecf394d92292&c_sessionid=d8ca1e45-2b89-4cb3-9953-8f85855c14eb
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:57:00.761
+!MESSAGE Browser url for editor: http://localhost:8080/rfb/angular/index.html?s=svyTimesheets$API&l=flow&f=timesheetsList&w=640.0&h=0.0&editorid=1bc02f1c-fc3a-441d-8901-18d03c7ac658&c_sessionid=dd31f227-0a92-4aac-ae55-13f0416ac7dc
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:57:05.322
+!MESSAGE Browser url for editor: http://localhost:8080/rfb/angular/index.html?s=svyTimesheets$API&l=flow&f=timesheetPage&w=640.0&h=0.0&editorid=51f2c30a-843b-4f61-910f-61c92d6055e1&c_sessionid=2c759a73-3e2e-4a42-b4b6-acd7b24794bf
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:57:41.508
+!MESSAGE Browser url for editor: http://localhost:8080/rfb/angular/index.html?s=svyTimesheets$API&l=flow&f=timespentForm&w=640.0&h=0.0&editorid=66402094-c61b-4598-80ea-fd26b072d833&c_sessionid=d5e71ff8-7213-4e0e-b562-43c92c006f0f
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:58:38.788
+!MESSAGE Browser url for editor: http://localhost:8080/rfb/angular/index.html?s=svyTimesheets$API&l=flow&f=timesheetsList&w=640.0&h=0.0&editorid=1bc02f1c-fc3a-441d-8901-18d03c7ac658&c_sessionid=dd31f227-0a92-4aac-ae55-13f0416ac7dc
+
+!ENTRY org.eclipse.ui 4 4 2017-11-01 13:59:13.793
+!MESSAGE Unable to associate action set with part: org.eclipse.dltk.javascript.ui.editor.JavascriptEditor. Action set org.eclipse.debug.ui.launchActionSet not found.
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:59:16.841
+!MESSAGE Browser url for editor: http://localhost:8080/rfb/angular/index.html?s=svyTimesheets$API&l=flow&f=timesheetPage&w=640.0&h=0.0&editorid=51f2c30a-843b-4f61-910f-61c92d6055e1&c_sessionid=2c759a73-3e2e-4a42-b4b6-acd7b24794bf
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 13:59:35.013
+!MESSAGE Browser url for editor: http://localhost:8080/rfb/angular/index.html?s=svyTimesheets$API&l=flow&f=loginPage&w=640.0&h=0.0&editorid=46c9bc2f-0f1c-4b83-95ed-8994fe3dcd73&c_sessionid=fc5dd715-d85b-4e86-a2b7-ea6c589b14b4
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 14:00:35.120
+!MESSAGE Browser url for editor: http://localhost:8080/rfb/angular/index.html?s=svyTimesheets$API&l=flow&f=createTimesheet&w=640.0&h=0.0&editorid=b82b820f-ed61-4ac4-aa73-9c219c2e2fda&c_sessionid=55406f61-0dd9-46ab-81ac-ffbc1cf3ad80
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 14:12:15.040
+!MESSAGE Browser url for editor: http://localhost:8080/rfb/angular/index.html?s=svyTimesheets$API&l=flow&f=createTimesheet&w=640.0&h=0.0&editorid=45b28f1b-198c-4dcf-9d67-5647a0849499&c_sessionid=da740523-8be2-4371-888e-809877a1c4fd
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 14:13:20.371
+!MESSAGE Browser url for editor: http://localhost:8080/rfb/angular/index.html?s=svyTimesheets$API&l=flow&f=timesheetsList&w=640.0&h=0.0&editorid=81979b42-2e2b-4988-8b2d-727349885c97&c_sessionid=3ba9dbed-36f6-41a0-be68-d5f101c06b11
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 14:14:01.053
+!MESSAGE Browser url for editor: http://localhost:8080/rfb/angular/index.html?s=svyTimesheets$API&l=flow&f=timespentForm&w=640.0&h=0.0&editorid=eab44320-3769-4589-b51d-2bb605ce21cb&c_sessionid=feba7a99-a29f-417d-9c5a-0eeeff8ba078
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 14:17:35.110
+!MESSAGE Browser url for editor: http://localhost:8080/rfb/angular/index.html?s=svyTimesheets$DB&l=flow&f=timesheetsList&w=640.0&h=0.0&editorid=b0b88185-49f2-482e-bb7e-74db113629c4&c_sessionid=f84351da-9b88-4f80-9e05-f2a81d0e844f
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 14:25:59.875
+!MESSAGE Browser url for editor: http://localhost:8080/rfb/angular/index.html?s=svyTimesheets$DB&l=flow&f=timesheetsList&w=640.0&h=0.0&editorid=b0b88185-49f2-482e-bb7e-74db113629c4&c_sessionid=f84351da-9b88-4f80-9e05-f2a81d0e844f
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 14:27:33.073
+!MESSAGE Browser url for editor: http://localhost:8080/rfb/angular/index.html?s=svyTimesheets$API&l=flow&f=timesheetsList&w=640.0&h=0.0&editorid=c2d24dac-2195-41a2-a7a3-d8aeb7d44ef3&c_sessionid=851efc2d-63db-4d5b-a910-f2be9ca13789
+
+!ENTRY com.servoy.eclipse.model 1 0 2017-11-01 14:32:13.487
+!MESSAGE Browser url for editor: http://localhost:8080/rfb/angular/index.html?s=svyTimesheets$DB&l=flow&f=timesheetsList&w=640.0&h=0.0&editorid=df174252-f624-4f16-9e44-4177a31ea991&c_sessionid=941303ad-3981-45df-b262-d58de1e094b6
